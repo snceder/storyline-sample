@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":64,"text":"Welcome to ADDIE.  "},{"start":1696,"text":"We are an elite organization that specializes in using a highly effective "},{"start":6688,"text":"and efficient process to manage training deliverables."},{"start":10848,"text":"ADDIE is an acronym that stands for:"},{"start":13600,"text":"Analyze, Design, Develop, Implement, Design, Develop, "},{"start":16512,"text":"Implement and Evaluate."},{"start":18752,"text":"We have a division for each phase of the ADDIE process.  "},{"start":22304,"text":"You will visit each division and learn how they function "},{"start":25536,"text":"and their importance to achieving instructional success."},{"start":29664,"text":"Each division will have a quick review to test your understanding.  "},{"start":34144,"text":"Once you’ve visited all 5 divisions, "},{"start":36640,"text":"you will be given a field assignment to put your knowledge "},{"start":39392,"text":"into practice. "},{"start":41056,"text":"Good Luck!"}]}]};
+    window.globalLoadJsAsset('story_content/6IT0OUicyTt_transcripts.js', JSON.stringify(data));
+})();
